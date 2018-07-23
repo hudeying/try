@@ -1,0 +1,7 @@
+```flow
+st=>start: 注册
+op=>operation: 登录
+op=>operation: 激活(商城用户)
+op=>operation:认证（个人认证或企业认证）
+e=>end:购买
+&```
